@@ -1,1 +1,1 @@
-# OCTANET_MARCH
+A web landing page is a single web page specifically designed to capture a visitor's attention and encourage a particular action, such as signing up for a newsletter, downloading a resource, or making a purchase. It typically contains concise content, a compelling call-to-action, and minimal navigation to keep visitors focused on the intended goal.
